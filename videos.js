@@ -17,7 +17,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-14T17:11:02Z",
-  "views": 434,
+  "views": 435,
   "sec": 48
  },
  {
@@ -147,7 +147,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T07:15:08Z",
-  "views": 692,
+  "views": 718,
   "sec": 62
  },
  {
@@ -167,7 +167,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T11:45:04Z",
-  "views": 390,
+  "views": 397,
   "sec": 67
  },
  {
@@ -199,5 +199,25 @@ window.NSCT_VIDEOS = [
   "published": "2026-10-17T14:45:23Z",
   "views": 19,
   "sec": 11
+ },
+ {
+  "id": "LWhF56a4a7A",
+  "cat": "intro",
+  "title": "แนะนำ Website ของช่อง",
+  "full": false,
+  "short": false,
+  "published": "2026-10-18T15:26:17Z",
+  "views": 2,
+  "sec": 201
+ },
+ {
+  "id": "Y-vLdN9cAGQ",
+  "cat": "intro",
+  "title": "แนะนำ Website ของช่อง",
+  "full": false,
+  "short": true,
+  "published": "2026-10-18T15:28:34Z",
+  "views": 6,
+  "sec": 145
  }
 ];
