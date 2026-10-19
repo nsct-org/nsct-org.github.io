@@ -17,7 +17,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-14T17:11:02Z",
-  "views": 435,
+  "views": 437,
   "sec": 48
  },
  {
@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 40,
+  "views": 41,
   "sec": 64
  },
  {
@@ -97,7 +97,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-15T16:55:58Z",
-  "views": 5,
+  "views": 6,
   "sec": 61
  },
  {
@@ -117,7 +117,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-15T16:57:04Z",
-  "views": 3,
+  "views": 4,
   "sec": 69
  },
  {
@@ -127,7 +127,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-15T16:57:36Z",
-  "views": 5,
+  "views": 6,
   "sec": 63
  },
  {
@@ -147,7 +147,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T07:15:08Z",
-  "views": 718,
+  "views": 992,
   "sec": 62
  },
  {
@@ -157,7 +157,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T09:00:09Z",
-  "views": 1271,
+  "views": 1273,
   "sec": 63
  },
  {
@@ -167,7 +167,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T11:45:04Z",
-  "views": 397,
+  "views": 513,
   "sec": 67
  },
  {
@@ -177,7 +177,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T12:15:32Z",
-  "views": 1359,
+  "views": 1355,
   "sec": 62
  },
  {
@@ -187,7 +187,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T14:08:01Z",
-  "views": 20,
+  "views": 23,
   "sec": 61
  },
  {
@@ -197,7 +197,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T14:45:23Z",
-  "views": 19,
+  "views": 22,
   "sec": 11
  },
  {
@@ -217,7 +217,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-18T15:28:34Z",
-  "views": 6,
+  "views": 31,
   "sec": 145
  }
 ];
