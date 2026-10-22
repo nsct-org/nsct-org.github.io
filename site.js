@@ -186,6 +186,10 @@
     row("คลิปเต็ม", all.filter(v => !v.short).sort((a, b) => wideOrder(a) - wideOrder(b)), { wide: true });
     row("ซีรีส์ 6 ตุลา 2519", byPart(all.filter(v => v.cat === "oct6" && v.short)), { note: "มีภาพเหตุการณ์จริงที่แสดงความรุนแรง", more: pl("PLSsvtX7GmfA8") });
     row("ซีรีส์ 14 ตุลา 2516", byPart(all.filter(v => v.cat === "oct14" && v.short)), { more: pl("PLM0Q34zogMUI") });
+    row("รัฐธรรมนูญทั้ง 20 ฉบับ", byPart(all.filter(v => v.cat === "constitution" && v.short)));
+    row("การรัฐประหาร 13 ครั้ง", byPart(all.filter(v => v.cat === "coup" && v.short)));
+    row("กบฏทั้ง 11 ครั้ง", byPart(all.filter(v => v.cat === "rebel" && v.short)));
+    row("พรรคการเมืองในสภา", byPart(all.filter(v => v.cat === "parties" && v.short)));
     row("ร่วมแสดงความเห็น", all.filter(v => v.cat === "poll"));
     row("NSCT Music", all.filter(v => v.cat === "music").sort((a, b) => a.short - b.short), { wide: true, more: pl("PLZ_5bGJRwCBQ") });
     row("รู้จัก ศนท.", byPart(all.filter(v => (v.cat === "journey" || v.cat === "intro") && !v.full)), { more: pl("PLUQLa3VCWaps") });
