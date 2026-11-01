@@ -23,6 +23,22 @@
     }
   }
 
+  // Visit counter: counts once per browser session, and stays hidden if the counter service is unreachable
+  const visits = document.querySelector("[data-visits]");
+  if (visits && location.hostname === "nsct-org.github.io") {
+    const flag = "nsct-visit-counted";
+    let counted = false;
+    try { counted = sessionStorage.getItem(flag) === "1"; } catch {}
+    fetch(`https://abacus.jasoncameron.dev/${counted ? "get" : "hit"}/nsct-org-github-io/visits`)
+      .then(r => r.ok ? r.json() : Promise.reject())
+      .then(({ value }) => {
+        visits.querySelector("b").textContent = Number(value).toLocaleString("en-US");
+        visits.hidden = false;
+        try { sessionStorage.setItem(flag, "1"); } catch {}
+      })
+      .catch(() => {});
+  }
+
   // News ticker: duplicate the items once so the scroll loops seamlessly (copies hidden from screen readers)
   const track = document.querySelector(".ticker-track");
   if (track) {
