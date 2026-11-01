@@ -380,8 +380,6 @@ form textarea { min-height: 140px; resize: vertical; }
 .site-footer ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
 .site-footer a { color: var(--fg); text-decoration: none; }
 .site-footer a:hover { color: var(--orange-hot); }
-.site-footer .visits { margin: 36px 0 -20px; color: var(--muted); font-size: 15px; }
-.site-footer .visits b { color: var(--orange-hot); font: 600 18px var(--font-label); }
 .site-footer .fine { margin-top: 44px; padding-top: 22px; border-top: 1px solid var(--line); display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; color: var(--muted); font-size: 14px; }
 
 /* page transition: an orange curtain lifts off on arrival and rises in when leaving.
