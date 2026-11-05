@@ -267,7 +267,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-20T07:00:20Z",
-  "views": 44,
+  "views": 46,
   "sec": 482
  },
  {
@@ -327,7 +327,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-21T10:00:06Z",
-  "views": 59,
+  "views": 61,
   "sec": 325
  },
  {
@@ -437,7 +437,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-24T09:30:14Z",
-  "views": 272,
+  "views": 274,
   "sec": 119
  },
  {
@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 72,
+  "views": 73,
   "sec": 1320
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 23,
+  "views": 24,
   "sec": 816
  },
  {
@@ -867,7 +867,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-05T10:00:27Z",
-  "views": 20,
+  "views": 27,
   "sec": 136
  }
 ];
