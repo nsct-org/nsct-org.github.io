@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 188,
+  "views": 187,
   "sec": 527
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 487,
+  "views": 488,
   "sec": 1319
  },
  {
@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 62,
+  "views": 64,
   "sec": 1320
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 77,
+  "views": 78,
   "sec": 1001
  },
  {
@@ -857,7 +857,17 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 2,
+  "views": 4,
   "sec": 816
+ },
+ {
+  "id": "PqGTh1XiH0M",
+  "cat": "pm",
+  "title": "นายกรัฐมนตรีไทยทุกคน (Part 1)",
+  "full": false,
+  "short": true,
+  "published": "2026-11-05T10:00:27Z",
+  "views": 0,
+  "sec": 136
  }
 ];
