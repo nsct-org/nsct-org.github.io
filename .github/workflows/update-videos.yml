@@ -1,0 +1,40 @@
+name: อัปเดตรายการคลิป
+
+# Every 3 hours from 17:05 Bangkok time: 17:05, 20:05, 23:05, 02:05, 05:05, 08:05, 11:05, 14:05
+# (cron is UTC; Bangkok is UTC+7). Five minutes past the hour so videos scheduled for 14:00/17:00 are already public.
+on:
+  schedule:
+    - cron: "5 1,4,7,10,13,16,19,22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: update-videos
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: ดึงรายการคลิปจาก YouTube
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: python tools/videos.py
+      - name: อัปโหลดถ้ามีอะไรเปลี่ยน
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet videos.js; then echo "ไม่มีอะไรเปลี่ยน"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "อัปเดตรายการคลิปอัตโนมัติ" videos.js
+          git push -q
+          # a push made with the workflow token may not start a Pages build by itself
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true

@@ -1,4 +1,4 @@
-// สร้างโดย build_site.py จาก YouTube Data API อย่าแก้มือ
+// สร้างอัตโนมัติจาก YouTube Data API (build_site.py หรือ GitHub Action) อย่าแก้มือ
 window.NSCT_VIDEOS = [
  {
   "id": "bYtgoJgnEew",
@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 68,
+  "views": 70,
   "sec": 64
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 251,
+  "views": 322,
   "sec": 776
  },
  {
@@ -237,7 +237,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-19T11:00:30Z",
-  "views": 882,
+  "views": 886,
   "sec": 124
  },
  {
@@ -247,7 +247,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-19T13:00:31Z",
-  "views": 616,
+  "views": 618,
   "sec": 95
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 84,
+  "views": 187,
   "sec": 527
  },
  {
@@ -267,7 +267,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-20T07:00:20Z",
-  "views": 25,
+  "views": 41,
   "sec": 482
  },
  {
@@ -287,7 +287,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T09:15:36Z",
-  "views": 1064,
+  "views": 1065,
   "sec": 80
  },
  {
@@ -307,7 +307,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T13:15:39Z",
-  "views": 1186,
+  "views": 1187,
   "sec": 93
  },
  {
@@ -327,7 +327,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-21T10:00:06Z",
-  "views": 35,
+  "views": 57,
   "sec": 325
  },
  {
@@ -357,7 +357,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-22T07:00:25Z",
-  "views": 109,
+  "views": 110,
   "sec": 115
  },
  {
@@ -377,8 +377,48 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-22T12:00:06Z",
-  "views": 494,
+  "views": 495,
   "sec": 117
+ },
+ {
+  "id": "w3sqK29Gqcg",
+  "cat": "rebel",
+  "title": "กบฏทั้ง 11 ครั้งในประเทศไทย (Part 1)",
+  "full": false,
+  "short": true,
+  "published": "2026-10-23T07:00:14Z",
+  "views": 696,
+  "sec": 112
+ },
+ {
+  "id": "WoXgSoBTx6A",
+  "cat": "rebel",
+  "title": "กบฏทั้ง 11 ครั้งในประเทศไทย (Part 2)",
+  "full": false,
+  "short": true,
+  "published": "2026-10-23T09:15:24Z",
+  "views": 138,
+  "sec": 61
+ },
+ {
+  "id": "ssiG870fIoo",
+  "cat": "rebel",
+  "title": "กบฏทั้ง 11 ครั้งในประเทศไทย (Part 3)",
+  "full": false,
+  "short": true,
+  "published": "2026-10-23T11:45:36Z",
+  "views": 322,
+  "sec": 58
+ },
+ {
+  "id": "y1lUAc1PWn4",
+  "cat": "rebel",
+  "title": "กบฏทั้ง 11 ครั้งในประเทศไทย (Part 4)",
+  "full": false,
+  "short": true,
+  "published": "2026-10-23T13:30:02Z",
+  "views": 251,
+  "sec": 82
  },
  {
   "id": "XQOHGZcD67E",
@@ -411,26 +451,6 @@ window.NSCT_VIDEOS = [
   "sec": 81
  },
  {
-  "id": "epWjnFRbJZw",
-  "cat": "parties",
-  "title": "พรรคการเมืองทั้ง 22 พรรคในสภาไทย (Part 1)",
-  "full": false,
-  "short": true,
-  "published": "2026-10-24T11:45:13Z",
-  "views": 1093,
-  "sec": 81
- },
- {
-  "id": "TO_2i5oJZcQ",
-  "cat": "parties",
-  "title": "พรรคการเมืองทั้ง 22 พรรคในสภาไทย (Part 2)",
-  "full": false,
-  "short": true,
-  "published": "2026-10-24T13:30:28Z",
-  "views": 1045,
-  "sec": 36
- },
- {
   "id": "TO_2i5oJZcQ",
   "cat": "parties",
   "title": "พรรคการเมืองทั้ง 22 พรรคในสภาไทย (Part 2)",
@@ -451,33 +471,13 @@ window.NSCT_VIDEOS = [
   "sec": 55
  },
  {
-  "id": "MztAlLisus8",
-  "cat": "parties",
-  "title": "พรรคการเมืองทั้ง 22 พรรคในสภาไทย (Part 3)",
-  "full": false,
-  "short": true,
-  "published": "2026-10-25T07:00:04Z",
-  "views": 609,
-  "sec": 55
- },
- {
   "id": "d1tiUIMV4V0",
   "cat": "parties",
   "title": "พรรคการเมืองทั้ง 22 พรรคในสภาไทย (Part 4)",
   "full": false,
   "short": true,
   "published": "2026-10-25T09:45:33Z",
-  "views": 565,
-  "sec": 79
- },
- {
-  "id": "d1tiUIMV4V0",
-  "cat": "parties",
-  "title": "พรรคการเมืองทั้ง 22 พรรคในสภาไทย (Part 4)",
-  "full": false,
-  "short": true,
-  "published": "2026-10-25T09:45:33Z",
-  "views": 565,
+  "views": 568,
   "sec": 79
  },
  {
@@ -487,18 +487,8 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-25T10:11:05Z",
-  "views": 5,
+  "views": 7,
   "sec": 196
- },
- {
-  "id": "_YEVXzaOejA",
-  "cat": "parties",
-  "title": "พรรคการเมืองทั้ง 22 พรรคในสภาไทย (Part 5)",
-  "full": false,
-  "short": true,
-  "published": "2026-10-25T12:00:39Z",
-  "views": 277,
-  "sec": 49
  },
  {
   "id": "_YEVXzaOejA",
@@ -517,7 +507,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-26T08:45:18Z",
-  "views": 248,
+  "views": 249,
   "sec": 176
  },
  {
@@ -527,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 300,
+  "views": 487,
   "sec": 1319
  },
  {
@@ -567,7 +557,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-29T02:30:16Z",
-  "views": 193,
+  "views": 194,
   "sec": 84
  },
  {
@@ -597,7 +587,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-29T04:00:03Z",
-  "views": 894,
+  "views": 895,
   "sec": 138
  },
  {
@@ -607,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 31,
+  "views": 62,
   "sec": 1320
  },
  {
@@ -627,7 +617,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T00:30:09Z",
-  "views": 203,
+  "views": 204,
   "sec": 74
  },
  {
@@ -667,7 +657,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T02:30:19Z",
-  "views": 346,
+  "views": 345,
   "sec": 117
  },
  {
@@ -677,7 +667,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T03:30:15Z",
-  "views": 1398,
+  "views": 1423,
   "sec": 66
  },
  {
@@ -687,7 +677,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T04:00:35Z",
-  "views": 631,
+  "views": 644,
   "sec": 96
  },
  {
@@ -707,7 +697,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T06:00:23Z",
-  "views": 0,
+  "views": 1,
   "sec": 125
  },
  {
@@ -747,7 +737,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T08:00:20Z",
-  "views": 1,
+  "views": 6,
   "sec": 56
  },
  {
@@ -757,7 +747,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T08:30:19Z",
-  "views": 0,
+  "views": 1,
   "sec": 137
  },
  {
@@ -767,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 41,
+  "views": 77,
   "sec": 1001
  },
  {
@@ -797,7 +787,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-31T13:00:17Z",
-  "views": 109,
+  "views": 113,
   "sec": 96
  },
  {
@@ -807,7 +797,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-01T03:30:12Z",
-  "views": 2,
+  "views": 0,
   "sec": 87
  },
  {
@@ -817,7 +807,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-01T06:30:17Z",
-  "views": 29,
+  "views": 35,
   "sec": 129
  },
  {
@@ -827,7 +817,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-01T09:30:22Z",
-  "views": 78,
+  "views": 143,
   "sec": 134
  },
  {
@@ -837,7 +827,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-02T02:00:16Z",
-  "views": 15,
+  "views": 49,
   "sec": 98
  },
  {
@@ -847,7 +837,27 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-02T11:00:10Z",
-  "views": 55,
+  "views": 109,
   "sec": 60
+ },
+ {
+  "id": "I_QAhlLf59U",
+  "cat": "oct14r",
+  "title": "14 ตุลา 2516 Remade (Part 9)",
+  "full": false,
+  "short": true,
+  "published": "2026-11-03T03:00:09Z",
+  "views": 36,
+  "sec": 112
+ },
+ {
+  "id": "0KLN8Uau68k",
+  "cat": "pm",
+  "title": "นายกรัฐมนตรีไทยทุกคน 32 คน",
+  "full": true,
+  "short": false,
+  "published": "2026-11-05T07:00:33Z",
+  "views": 2,
+  "sec": 816
  }
 ];

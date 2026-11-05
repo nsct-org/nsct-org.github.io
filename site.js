@@ -184,6 +184,8 @@
     // every horizontal video: full clips first, then the landscape channel intro, then the full song
     const wideOrder = v => v.full ? 0 : v.cat === "intro" ? 1 : 2;
     row("คลิปเต็ม", all.filter(v => !v.short).sort((a, b) => wideOrder(a) - wideOrder(b)), { wide: true });
+    row("การชุมนุมใหญ่ 7 ครั้ง", byPart(all.filter(v => v.cat === "rally" && v.short)), { note: "มีภาพเหตุการณ์จริงที่แสดงความรุนแรง" });
+    row("นายกรัฐมนตรีไทยทุกคน", byPart(all.filter(v => v.cat === "pm" && v.short)));
     row("ซีรีส์ 6 ตุลา 2519", byPart(all.filter(v => v.cat === "oct6" && v.short)), { note: "มีภาพเหตุการณ์จริงที่แสดงความรุนแรง", more: pl("PLSsvtX7GmfA8") });
     row("14 ตุลา 2516 Remade", byPart(all.filter(v => v.cat === "oct14r" && v.short)), { note: "มีภาพเหตุการณ์จริงที่แสดงความรุนแรง" });
     row("เจาะลึกพรรคเพื่อไทย", byPart(all.filter(v => v.cat === "ptdeep" && v.short)));
