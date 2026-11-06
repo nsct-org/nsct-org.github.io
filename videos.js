@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 70,
+  "views": 71,
   "sec": 64
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 324,
+  "views": 325,
   "sec": 776
  },
  {
@@ -267,7 +267,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-20T07:00:20Z",
-  "views": 46,
+  "views": 48,
   "sec": 482
  },
  {
@@ -307,7 +307,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T13:15:39Z",
-  "views": 1189,
+  "views": 1190,
   "sec": 93
  },
  {
@@ -327,7 +327,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-21T10:00:06Z",
-  "views": 61,
+  "views": 62,
   "sec": 325
  },
  {
@@ -357,7 +357,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-22T07:00:25Z",
-  "views": 110,
+  "views": 111,
   "sec": 115
  },
  {
@@ -367,7 +367,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-22T09:45:22Z",
-  "views": 1019,
+  "views": 1021,
   "sec": 120
  },
  {
@@ -387,7 +387,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-23T07:00:14Z",
-  "views": 697,
+  "views": 698,
   "sec": 112
  },
  {
@@ -487,7 +487,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-25T10:11:05Z",
-  "views": 7,
+  "views": 8,
   "sec": 196
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 512,
+  "views": 518,
   "sec": 1319
  },
  {
@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 73,
+  "views": 74,
   "sec": 1320
  },
  {
@@ -867,7 +867,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-05T10:00:27Z",
-  "views": 36,
+  "views": 40,
   "sec": 136
  }
 ];
