@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 71,
+  "views": 72,
   "sec": 64
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 325,
+  "views": 326,
   "sec": 776
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 188,
+  "views": 190,
   "sec": 527
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 522,
+  "views": 524,
   "sec": 1319
  },
  {
@@ -527,7 +527,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-28T08:00:33Z",
-  "views": 358,
+  "views": 359,
   "sec": 168
  },
  {
@@ -567,7 +567,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-29T03:00:14Z",
-  "views": 329,
+  "views": 330,
   "sec": 92
  },
  {
@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 83,
+  "views": 87,
   "sec": 1320
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 84,
+  "views": 86,
   "sec": 1001
  },
  {
@@ -857,17 +857,17 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 33,
+  "views": 34,
   "sec": 816
  },
  {
   "id": "PqGTh1XiH0M",
   "cat": "pm",
-  "title": "นายกรัฐมนตรีไทยทุกคน (Part 1)",
+  "title": "นายกฯ ที่ว่ายน้ำหนีจากเรือรบ",
   "full": false,
   "short": true,
   "published": "2026-11-05T10:00:27Z",
-  "views": 51,
+  "views": 156,
   "sec": 136
  },
  {
@@ -877,7 +877,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 83,
+  "views": 196,
   "sec": 93
  },
  {
@@ -887,7 +887,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T10:00:39Z",
-  "views": 8,
+  "views": 55,
   "sec": 77
  }
 ];
