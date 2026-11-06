@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 79,
+  "views": 83,
   "sec": 1320
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 28,
+  "views": 33,
   "sec": 816
  },
  {
@@ -873,11 +873,21 @@ window.NSCT_VIDEOS = [
  {
   "id": "uqFkwcvUkzE",
   "cat": "pm",
-  "title": "นายกรัฐมนตรีไทยทุกคน (Part 2)",
+  "title": "นายกฯ ที่อยู่ในตำแหน่งแค่ 17 วัน",
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 0,
+  "views": 83,
   "sec": 93
+ },
+ {
+  "id": "qQw-lr3W--U",
+  "cat": "pm",
+  "title": "นายกฯ คนเดียวที่เสียชีวิตในตำแหน่ง",
+  "full": false,
+  "short": true,
+  "published": "2026-11-06T10:00:39Z",
+  "views": 8,
+  "sec": 77
  }
 ];
