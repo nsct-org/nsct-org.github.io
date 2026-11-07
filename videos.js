@@ -167,7 +167,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T11:45:04Z",
-  "views": 523,
+  "views": 524,
   "sec": 67
  },
  {
@@ -477,7 +477,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-25T09:45:33Z",
-  "views": 568,
+  "views": 569,
   "sec": 79
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 551,
+  "views": 555,
   "sec": 1319
  },
  {
@@ -567,7 +567,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-29T03:00:14Z",
-  "views": 331,
+  "views": 332,
   "sec": 92
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 93,
+  "views": 95,
   "sec": 1001
  },
  {
@@ -817,7 +817,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-01T09:30:22Z",
-  "views": 143,
+  "views": 144,
   "sec": 134
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 47,
+  "views": 48,
   "sec": 816
  },
  {
@@ -867,7 +867,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-05T10:00:27Z",
-  "views": 222,
+  "views": 246,
   "sec": 136
  },
  {
@@ -877,7 +877,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 362,
+  "views": 405,
   "sec": 93
  },
  {
@@ -889,5 +889,15 @@ window.NSCT_VIDEOS = [
   "published": "2026-11-06T10:00:39Z",
   "views": 70,
   "sec": 77
+ },
+ {
+  "id": "IlkeT7t-JFA",
+  "cat": "pm",
+  "title": "“ผมพอแล้ว” นายกฯ ที่ไม่ขอไปต่อ",
+  "full": false,
+  "short": true,
+  "published": "2026-11-07T07:00:15Z",
+  "views": 17,
+  "sec": 99
  }
 ];
