@@ -157,7 +157,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T09:00:09Z",
-  "views": 1308,
+  "views": 1309,
   "sec": 63
  },
  {
@@ -177,7 +177,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T12:15:32Z",
-  "views": 1387,
+  "views": 1388,
   "sec": 62
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 211,
+  "views": 212,
   "sec": 527
  },
  {
@@ -437,7 +437,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-24T09:30:14Z",
-  "views": 275,
+  "views": 276,
   "sec": 119
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 585,
+  "views": 590,
   "sec": 1319
  },
  {
@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 127,
+  "views": 132,
   "sec": 1320
  },
  {
@@ -737,7 +737,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T08:00:20Z",
-  "views": 9,
+  "views": 11,
   "sec": 56
  },
  {
@@ -767,7 +767,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-31T07:00:09Z",
-  "views": 356,
+  "views": 358,
   "sec": 77
  },
  {
@@ -787,7 +787,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-31T13:00:17Z",
-  "views": 113,
+  "views": 114,
   "sec": 96
  },
  {
@@ -797,7 +797,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-01T03:30:12Z",
-  "views": 0,
+  "views": 1,
   "sec": 87
  },
  {
@@ -807,7 +807,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-01T06:30:17Z",
-  "views": 36,
+  "views": 37,
   "sec": 129
  },
  {
@@ -827,7 +827,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-02T02:00:16Z",
-  "views": 49,
+  "views": 50,
   "sec": 98
  },
  {
@@ -837,7 +837,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-02T11:00:10Z",
-  "views": 111,
+  "views": 112,
   "sec": 60
  },
  {
@@ -847,7 +847,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-03T03:00:09Z",
-  "views": 38,
+  "views": 39,
   "sec": 112
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 54,
+  "views": 58,
   "sec": 816
  },
  {
@@ -867,7 +867,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-05T10:00:27Z",
-  "views": 283,
+  "views": 285,
   "sec": 136
  },
  {
@@ -877,7 +877,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 727,
+  "views": 814,
   "sec": 93
  },
  {
@@ -887,7 +887,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T10:00:39Z",
-  "views": 104,
+  "views": 136,
   "sec": 77
  },
  {
@@ -897,7 +897,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T07:00:15Z",
-  "views": 64,
+  "views": 101,
   "sec": 99
  },
  {
@@ -907,7 +907,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T10:00:33Z",
-  "views": 711,
+  "views": 787,
   "sec": 83
  },
  {
@@ -917,7 +917,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T07:00:04Z",
-  "views": 262,
+  "views": 760,
   "sec": 91
+ },
+ {
+  "id": "mygB8XA04Bs",
+  "cat": "pm",
+  "title": "นายกฯ ที่พ้นตำแหน่งเพราะรายการทำอาหาร",
+  "full": false,
+  "short": true,
+  "published": "2026-11-08T10:00:37Z",
+  "views": 72,
+  "sec": 92
  }
 ];
