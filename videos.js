@@ -7,7 +7,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T16:42:10Z",
-  "views": 34,
+  "views": 40,
   "sec": 206
  },
  {
@@ -17,7 +17,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-14T17:11:02Z",
-  "views": 451,
+  "views": 456,
   "sec": 48
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 583,
+  "views": 585,
   "sec": 1319
  },
  {
@@ -737,7 +737,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T08:00:20Z",
-  "views": 6,
+  "views": 9,
   "sec": 56
  },
  {
@@ -747,7 +747,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T08:30:19Z",
-  "views": 1,
+  "views": 2,
   "sec": 137
  },
  {
@@ -907,7 +907,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T10:00:33Z",
-  "views": 670,
+  "views": 711,
   "sec": 83
+ },
+ {
+  "id": "cp57T4mTlyY",
+  "cat": "pm",
+  "title": "เงินบาทจาก 25 เป็น 56 ในปีเดียว",
+  "full": false,
+  "short": true,
+  "published": "2026-11-08T07:00:04Z",
+  "views": 262,
+  "sec": 91
  }
 ];
