@@ -7,7 +7,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T16:42:10Z",
-  "views": 40,
+  "views": 42,
   "sec": 206
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 332,
+  "views": 333,
   "sec": 776
  },
  {
@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 145,
+  "views": 150,
   "sec": 1320
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 108,
+  "views": 109,
   "sec": 1001
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 81,
+  "views": 84,
   "sec": 816
  },
  {
@@ -877,7 +877,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 831,
+  "views": 832,
   "sec": 93
  },
  {
@@ -897,7 +897,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T07:00:15Z",
-  "views": 181,
+  "views": 227,
   "sec": 99
  },
  {
@@ -907,7 +907,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T10:00:33Z",
-  "views": 960,
+  "views": 973,
   "sec": 83
  },
  {
@@ -917,7 +917,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T07:00:04Z",
-  "views": 1201,
+  "views": 1240,
   "sec": 91
  },
  {
@@ -927,7 +927,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T10:00:37Z",
-  "views": 957,
+  "views": 960,
   "sec": 92
+ },
+ {
+  "id": "qw4wsBuzNPY",
+  "cat": "pm",
+  "title": "ศาลสั่งนายกฯ พ้นตำแหน่ง 2 คนติด",
+  "full": false,
+  "short": true,
+  "published": "2026-11-09T07:00:11Z",
+  "views": 299,
+  "sec": 144
  }
 ];
