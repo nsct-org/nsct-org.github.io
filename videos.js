@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 216,
+  "views": 218,
   "sec": 527
  },
  {
@@ -267,7 +267,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-20T07:00:20Z",
-  "views": 50,
+  "views": 51,
   "sec": 482
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 650,
+  "views": 654,
   "sec": 1319
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 84,
+  "views": 89,
   "sec": 816
  },
  {
@@ -917,7 +917,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T07:00:04Z",
-  "views": 1240,
+  "views": 1245,
   "sec": 91
  },
  {
@@ -937,7 +937,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 299,
+  "views": 529,
   "sec": 144
+ },
+ {
+  "id": "LLTAQkAitmw",
+  "cat": "rally",
+  "title": "การชุมนุมใหญ่ 7 ครั้งที่เปลี่ยนการเมืองไทย",
+  "full": true,
+  "short": false,
+  "published": "2026-11-09T10:00:16Z",
+  "views": 1,
+  "sec": 678
  }
 ];
