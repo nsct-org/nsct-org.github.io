@@ -247,7 +247,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-19T13:00:31Z",
-  "views": 618,
+  "views": 619,
   "sec": 95
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 226,
+  "views": 229,
   "sec": 527
  },
  {
@@ -287,7 +287,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T09:15:36Z",
-  "views": 1067,
+  "views": 1068,
   "sec": 80
  },
  {
@@ -387,7 +387,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-23T07:00:14Z",
-  "views": 699,
+  "views": 702,
   "sec": 112
  },
  {
@@ -397,7 +397,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-23T09:15:24Z",
-  "views": 138,
+  "views": 139,
   "sec": 61
  },
  {
@@ -417,7 +417,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-23T13:30:02Z",
-  "views": 254,
+  "views": 255,
   "sec": 82
  },
  {
@@ -437,7 +437,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-24T09:30:14Z",
-  "views": 277,
+  "views": 278,
   "sec": 119
  },
  {
@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 159,
+  "views": 160,
   "sec": 1320
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 116,
+  "views": 117,
   "sec": 1001
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 103,
+  "views": 106,
   "sec": 816
  },
  {
@@ -867,7 +867,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-05T10:00:27Z",
-  "views": 284,
+  "views": 283,
   "sec": 136
  },
  {
@@ -877,7 +877,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 834,
+  "views": 835,
   "sec": 93
  },
  {
@@ -917,7 +917,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T07:00:04Z",
-  "views": 1261,
+  "views": 1262,
   "sec": 91
  },
  {
@@ -927,7 +927,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T10:00:37Z",
-  "views": 959,
+  "views": 987,
   "sec": 92
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 995,
+  "views": 1006,
   "sec": 144
  },
  {
@@ -947,7 +947,17 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-09T10:00:16Z",
-  "views": 9,
+  "views": 10,
   "sec": 678
+ },
+ {
+  "id": "4Di4QjVEZeQ",
+  "cat": "rally",
+  "title": "ห้าแสนคนบนราชดำเนิน 14 ตุลา 2516",
+  "full": false,
+  "short": true,
+  "published": "2026-11-10T07:00:07Z",
+  "views": 24,
+  "sec": 96
  }
 ];
