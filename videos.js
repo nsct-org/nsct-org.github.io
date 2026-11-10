@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 229,
+  "views": 231,
   "sec": 527
  },
  {
@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 160,
+  "views": 165,
   "sec": 1320
  },
  {
@@ -877,7 +877,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 835,
+  "views": 837,
   "sec": 93
  },
  {
@@ -917,7 +917,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T07:00:04Z",
-  "views": 1262,
+  "views": 1271,
   "sec": 91
  },
  {
@@ -927,7 +927,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T10:00:37Z",
-  "views": 987,
+  "views": 1011,
   "sec": 92
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 1006,
+  "views": 1009,
   "sec": 144
  },
  {
@@ -959,5 +959,15 @@ window.NSCT_VIDEOS = [
   "published": "2026-11-10T07:00:07Z",
   "views": 24,
   "sec": 96
+ },
+ {
+  "id": "oMiF-TSpbAc",
+  "cat": "rally",
+  "title": "6 ตุลา 2519 ครั้งเดียวที่ไม่ได้อะไรเลย",
+  "full": false,
+  "short": true,
+  "published": "2026-11-10T10:00:33Z",
+  "views": 4,
+  "sec": 65
  }
 ];
