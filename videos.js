@@ -97,7 +97,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-15T16:55:58Z",
-  "views": 24,
+  "views": 25,
   "sec": 61
  },
  {
@@ -237,7 +237,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-19T11:00:30Z",
-  "views": 889,
+  "views": 890,
   "sec": 124
  },
  {
@@ -297,7 +297,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T11:30:32Z",
-  "views": 891,
+  "views": 892,
   "sec": 117
  },
  {
@@ -477,7 +477,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-25T09:45:33Z",
-  "views": 570,
+  "views": 571,
   "sec": 79
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 755,
+  "views": 757,
   "sec": 1319
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 114,
+  "views": 115,
   "sec": 816
  },
  {
@@ -917,7 +917,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T07:00:04Z",
-  "views": 1273,
+  "views": 1274,
   "sec": 91
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 1020,
+  "views": 1021,
   "sec": 144
  },
  {
@@ -947,7 +947,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-09T10:00:16Z",
-  "views": 13,
+  "views": 17,
   "sec": 678
  },
  {
@@ -957,7 +957,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T07:00:07Z",
-  "views": 99,
+  "views": 107,
   "sec": 96
  },
  {
@@ -967,7 +967,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T10:00:33Z",
-  "views": 29,
+  "views": 30,
   "sec": 65
+ },
+ {
+  "id": "YD8Mqjysfx0",
+  "cat": "rally",
+  "title": "ม็อบมือถือ พฤษภา 2535",
+  "full": false,
+  "short": true,
+  "published": "2026-11-11T07:00:09Z",
+  "views": 0,
+  "sec": 73
  }
 ];
