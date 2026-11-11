@@ -177,7 +177,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T12:15:32Z",
-  "views": 1393,
+  "views": 1394,
   "sec": 62
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 340,
+  "views": 341,
   "sec": 776
  },
  {
@@ -237,7 +237,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-19T11:00:30Z",
-  "views": 890,
+  "views": 891,
   "sec": 124
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 244,
+  "views": 247,
   "sec": 527
  },
  {
@@ -307,7 +307,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T13:15:39Z",
-  "views": 1191,
+  "views": 1192,
   "sec": 93
  },
  {
@@ -447,7 +447,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-24T11:45:13Z",
-  "views": 1095,
+  "views": 1096,
   "sec": 81
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 757,
+  "views": 767,
   "sec": 1319
  },
  {
@@ -597,7 +597,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-29T12:11:03Z",
-  "views": 180,
+  "views": 181,
   "sec": 1320
  },
  {
@@ -747,7 +747,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T08:30:19Z",
-  "views": 4,
+  "views": 5,
   "sec": 137
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 115,
+  "views": 122,
   "sec": 816
  },
  {
@@ -917,7 +917,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T07:00:04Z",
-  "views": 1274,
+  "views": 1277,
   "sec": 91
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 1021,
+  "views": 1023,
   "sec": 144
  },
  {
@@ -947,7 +947,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-09T10:00:16Z",
-  "views": 17,
+  "views": 18,
   "sec": 678
  },
  {
@@ -957,7 +957,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T07:00:07Z",
-  "views": 107,
+  "views": 109,
   "sec": 96
  },
  {
@@ -967,7 +967,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T10:00:33Z",
-  "views": 30,
+  "views": 31,
   "sec": 65
  },
  {
@@ -977,7 +977,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-11T07:00:09Z",
-  "views": 0,
+  "views": 49,
   "sec": 73
+ },
+ {
+  "id": "oapqKT_d998",
+  "cat": "rally",
+  "title": "พันธมิตรฯ ยึดสนามบิน",
+  "full": false,
+  "short": true,
+  "published": "2026-11-11T10:00:11Z",
+  "views": 56,
+  "sec": 70
  }
 ];
