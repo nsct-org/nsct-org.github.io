@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 347,
+  "views": 349,
   "sec": 776
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 268,
+  "views": 274,
   "sec": 527
  },
  {
@@ -267,7 +267,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-20T07:00:20Z",
-  "views": 53,
+  "views": 54,
   "sec": 482
  },
  {
@@ -307,7 +307,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T13:15:39Z",
-  "views": 1194,
+  "views": 1196,
   "sec": 93
  },
  {
@@ -327,7 +327,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-21T10:00:06Z",
-  "views": 69,
+  "views": 70,
   "sec": 325
  },
  {
@@ -367,7 +367,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-22T09:45:22Z",
-  "views": 1022,
+  "views": 1023,
   "sec": 120
  },
  {
@@ -487,7 +487,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-25T10:11:05Z",
-  "views": 12,
+  "views": 13,
   "sec": 196
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 841,
+  "views": 843,
   "sec": 1319
  },
  {
@@ -697,7 +697,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T06:00:23Z",
-  "views": 3,
+  "views": 4,
   "sec": 125
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 1036,
+  "views": 1038,
   "sec": 144
  },
  {
@@ -947,7 +947,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-09T10:00:16Z",
-  "views": 27,
+  "views": 29,
   "sec": 662
  },
  {
@@ -957,7 +957,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T07:00:07Z",
-  "views": 153,
+  "views": 171,
   "sec": 96
  },
  {
@@ -987,7 +987,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-11T10:00:11Z",
-  "views": 96,
+  "views": 98,
   "sec": 70
  },
  {
@@ -997,7 +997,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T07:00:16Z",
-  "views": 17,
+  "views": 93,
   "sec": 66
+ },
+ {
+  "id": "jKIZ7BJ443Q",
+  "cat": "rally",
+  "title": "กปปส. ปิดกรุงเทพฯ",
+  "full": false,
+  "short": true,
+  "published": "2026-11-12T10:00:00Z",
+  "views": 50,
+  "sec": 61
  }
 ];
