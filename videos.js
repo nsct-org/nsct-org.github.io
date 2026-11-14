@@ -17,7 +17,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-14T17:11:02Z",
-  "views": 456,
+  "views": 457,
   "sec": 48
  },
  {
@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 77,
+  "views": 79,
   "sec": 64
  },
  {
@@ -147,7 +147,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T07:15:08Z",
-  "views": 1006,
+  "views": 1007,
   "sec": 62
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 363,
+  "views": 364,
   "sec": 776
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 405,
+  "views": 406,
   "sec": 527
  },
  {
@@ -417,7 +417,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-23T13:30:02Z",
-  "views": 258,
+  "views": 259,
   "sec": 82
  },
  {
@@ -677,7 +677,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T04:00:35Z",
-  "views": 646,
+  "views": 647,
   "sec": 96
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 160,
+  "views": 165,
   "sec": 1001
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 148,
+  "views": 149,
   "sec": 816
  },
  {
@@ -907,7 +907,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T10:00:33Z",
-  "views": 977,
+  "views": 979,
   "sec": 83
  },
  {
@@ -927,7 +927,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T10:00:37Z",
-  "views": 1024,
+  "views": 1025,
   "sec": 92
  },
  {
@@ -967,7 +967,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T10:00:33Z",
-  "views": 45,
+  "views": 46,
   "sec": 65
  },
  {
@@ -987,7 +987,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-11T10:00:11Z",
-  "views": 110,
+  "views": 111,
   "sec": 70
  },
  {
@@ -1007,7 +1007,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T10:00:00Z",
-  "views": 232,
+  "views": 233,
   "sec": 61
  },
  {
