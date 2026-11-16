@@ -7,7 +7,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T16:42:10Z",
-  "views": 44,
+  "views": 46,
   "sec": 206
  },
  {
@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 83,
+  "views": 84,
   "sec": 64
  },
  {
@@ -37,7 +37,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-15T10:32:30Z",
-  "views": 4,
+  "views": 5,
   "sec": 156
  },
  {
@@ -177,7 +177,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T12:15:32Z",
-  "views": 1395,
+  "views": 1396,
   "sec": 62
  },
  {
@@ -247,7 +247,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-19T13:00:31Z",
-  "views": 623,
+  "views": 625,
   "sec": 95
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 406,
+  "views": 407,
   "sec": 527
  },
  {
@@ -447,7 +447,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-24T11:45:13Z",
-  "views": 1098,
+  "views": 1096,
   "sec": 81
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 944,
+  "views": 945,
   "sec": 1319
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 192,
+  "views": 196,
   "sec": 1001
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 153,
+  "views": 154,
   "sec": 816
  },
  {
@@ -967,7 +967,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T10:00:33Z",
-  "views": 46,
+  "views": 47,
   "sec": 65
  },
  {
@@ -997,7 +997,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T07:00:16Z",
-  "views": 219,
+  "views": 218,
   "sec": 66
  },
  {
@@ -1007,7 +1007,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T10:00:00Z",
-  "views": 234,
+  "views": 235,
   "sec": 61
  },
  {
@@ -1017,7 +1017,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-13T07:00:35Z",
-  "views": 79,
+  "views": 76,
   "sec": 90
+ },
+ {
+  "id": "MhoQvAsG_xk",
+  "cat": "oct6",
+  "title": "15 วันหลัง 6 ตุลา โทษเพิ่มเป็น 15 ปี",
+  "full": false,
+  "short": true,
+  "published": "2026-11-16T07:00:09Z",
+  "views": 64,
+  "sec": 100
  }
 ];
