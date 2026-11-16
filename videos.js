@@ -487,7 +487,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-25T10:11:05Z",
-  "views": 14,
+  "views": 15,
   "sec": 196
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 187,
+  "views": 192,
   "sec": 1001
  },
  {
@@ -827,7 +827,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-02T02:00:16Z",
-  "views": 51,
+  "views": 53,
   "sec": 98
  },
  {
