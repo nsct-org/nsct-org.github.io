@@ -1027,7 +1027,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-16T07:00:09Z",
-  "views": 64,
+  "views": 147,
   "sec": 100
+ },
+ {
+  "id": "aHeYsJMub_g",
+  "cat": "coup",
+  "title": "คดี 112 พุ่งหลังรัฐประหาร",
+  "full": false,
+  "short": true,
+  "published": "2026-11-16T10:00:06Z",
+  "views": 134,
+  "sec": 151
  }
 ];
