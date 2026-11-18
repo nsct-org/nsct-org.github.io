@@ -47,7 +47,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-15T14:10:41Z",
-  "views": 9,
+  "views": 10,
   "sec": 322
  },
  {
@@ -97,7 +97,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-15T16:55:58Z",
-  "views": 27,
+  "views": 28,
   "sec": 61
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 377,
+  "views": 378,
   "sec": 776
  },
  {
@@ -307,7 +307,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T13:15:39Z",
-  "views": 1200,
+  "views": 1203,
   "sec": 93
  },
  {
@@ -387,7 +387,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-23T07:00:14Z",
-  "views": 707,
+  "views": 709,
   "sec": 112
  },
  {
@@ -397,7 +397,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-23T09:15:24Z",
-  "views": 142,
+  "views": 144,
   "sec": 61
  },
  {
@@ -437,7 +437,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-24T09:30:14Z",
-  "views": 290,
+  "views": 291,
   "sec": 119
  },
  {
@@ -667,7 +667,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T03:30:15Z",
-  "views": 1426,
+  "views": 1427,
   "sec": 66
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 201,
+  "views": 204,
   "sec": 1001
  },
  {
@@ -1027,7 +1027,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-16T07:00:09Z",
-  "views": 210,
+  "views": 216,
   "sec": 100
  },
  {
@@ -1037,7 +1037,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-16T10:00:06Z",
-  "views": 956,
+  "views": 959,
   "sec": 151
+ },
+ {
+  "id": "0DdbEs3TqYU",
+  "cat": "oct6",
+  "title": "ร่างลบมรดก 6 ตุลา ของภาคประชาชน",
+  "full": false,
+  "short": true,
+  "published": "2026-11-18T07:00:32Z",
+  "views": 93,
+  "sec": 77
  }
 ];
