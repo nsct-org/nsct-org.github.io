@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 94,
+  "views": 106,
   "sec": 64
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 381,
+  "views": 383,
   "sec": 776
  },
  {
@@ -277,7 +277,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T07:00:32Z",
-  "views": 1101,
+  "views": 1105,
   "sec": 81
  },
  {
@@ -367,7 +367,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-22T09:45:22Z",
-  "views": 1027,
+  "views": 1028,
   "sec": 120
  },
  {
@@ -387,7 +387,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-23T07:00:14Z",
-  "views": 712,
+  "views": 714,
   "sec": 112
  },
  {
@@ -437,7 +437,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-24T09:30:14Z",
-  "views": 294,
+  "views": 295,
   "sec": 119
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 237,
+  "views": 246,
   "sec": 1001
  },
  {
@@ -867,7 +867,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-05T10:00:27Z",
-  "views": 290,
+  "views": 292,
   "sec": 136
  },
  {
@@ -887,7 +887,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T10:00:39Z",
-  "views": 147,
+  "views": 148,
   "sec": 77
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 1050,
+  "views": 1051,
   "sec": 144
  },
  {
@@ -967,7 +967,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T10:00:33Z",
-  "views": 50,
+  "views": 51,
   "sec": 65
  },
  {
@@ -977,7 +977,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-11T07:00:09Z",
-  "views": 75,
+  "views": 80,
   "sec": 73
  },
  {
@@ -987,7 +987,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-11T10:00:11Z",
-  "views": 117,
+  "views": 120,
   "sec": 70
  },
  {
@@ -1007,7 +1007,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T10:00:00Z",
-  "views": 238,
+  "views": 245,
   "sec": 61
  },
  {
@@ -1017,7 +1017,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-13T07:00:35Z",
-  "views": 85,
+  "views": 93,
   "sec": 90
  },
  {
@@ -1027,7 +1027,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-15T03:00:06Z",
-  "views": 11,
+  "views": 12,
   "sec": 1613
  },
  {
@@ -1077,7 +1077,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-17T10:00:40Z",
-  "views": 562,
+  "views": 564,
   "sec": 134
  },
  {
@@ -1087,7 +1087,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T07:00:32Z",
-  "views": 163,
+  "views": 172,
   "sec": 77
  },
  {
@@ -1097,7 +1097,47 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T10:00:32Z",
-  "views": 625,
+  "views": 699,
   "sec": 152
+ },
+ {
+  "id": "kZ5F-sC1MeM",
+  "cat": "genz",
+  "title": "ม็อบเจน Z #เลิกเรียนแล้วไปอนุสาวรีย์ Part 1: ใครจัด เรียกร้องอะไร",
+  "full": true,
+  "short": false,
+  "published": "2026-11-20T04:30:08Z",
+  "views": 2,
+  "sec": 528
+ },
+ {
+  "id": "3pvolVvtJ5M",
+  "cat": "genz",
+  "title": "ม็อบเจน Z เรียกร้องอะไร?",
+  "full": false,
+  "short": true,
+  "published": "2026-11-20T05:00:11Z",
+  "views": 54,
+  "sec": 89
+ },
+ {
+  "id": "9Geg_fD5WMQ",
+  "cat": "genz",
+  "title": "สโมสรนิสิตจุฬาฯ หนุนม็อบเจน Z",
+  "full": false,
+  "short": true,
+  "published": "2026-11-20T08:00:10Z",
+  "views": 74,
+  "sec": 99
+ },
+ {
+  "id": "G0CKPr3Z8U4",
+  "cat": "genz",
+  "title": "ศนท. ประกาศจุดยืนสนับสนุน",
+  "full": false,
+  "short": true,
+  "published": "2026-11-20T11:00:21Z",
+  "views": 72,
+  "sec": 60
  }
 ];
