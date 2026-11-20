@@ -141,8 +141,9 @@
       const a = document.createElement("a");
       a.className = "tile" + (wide ? " wide" : " tall") + (rank ? " ranked" : "");
       a.href = url(v); a.target = "_blank"; a.rel = "noopener";
-      // wide: 16:9 maxres (hqdefault is 4:3 with black bars); tall: the Shorts' own 9:16 frame
-      const img = `https://i.ytimg.com/vi/${v.id}/${wide ? "maxresdefault" : "oardefault"}.jpg`;
+      // wide: 16:9 maxres (hqdefault is 4:3 with black bars). tall: maxres too: a Short's custom cover sits in the
+      // middle 9:16 band of it (oardefault is a frame from the video, not the cover); the 9:16 tile crops to that band
+      const img = `https://i.ytimg.com/vi/${v.id}/maxresdefault.jpg`;
       a.innerHTML = (rank ? `<span class="rank" aria-hidden="true">${rank}</span>` : "") +
         `<span class="poster"><img loading="lazy" alt="" src="${img}"><span class="shade"></span><span class="play">${ICON_PLAY}</span><span class="cap"></span></span>`;
       a.querySelector(".cap").textContent = v.title;
@@ -156,7 +157,7 @@
       im.addEventListener("load", () => {
         if (im.naturalWidth >= 200) return;
         if (wide) im.src = `https://i.ytimg.com/vi/${v.id}/mqdefault.jpg`; // 16:9, smaller
-        else { a.classList.add("no-oar"); im.src = `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`; }
+        else im.src = `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`; // 4:3: the cover is its middle 9:16 band too
       }, { once: true });
       a.setAttribute("aria-label", (rank ? `อันดับ ${rank} ` : "") + v.title);
       const b = badgeFor(v, !!rank);
@@ -184,6 +185,9 @@
     // every horizontal video: full clips first, then the landscape channel intro, then the full song
     const wideOrder = v => v.full ? 0 : v.cat === "intro" ? 1 : 2;
     row("คลิปเต็ม", all.filter(v => !v.short).sort((a, b) => wideOrder(a) - wideOrder(b)), { wide: true });
+    const byDate = list => list.slice().sort((a, b) => a.published.localeCompare(b.published));
+    row("ม็อบเจน Z · 20 พ.ย. 2569", byDate(all.filter(v => v.cat === "genz" && v.short)));
+    row("มาตรา 112", byDate(all.filter(v => v.cat === "law112" && v.short)));
     row("การชุมนุมใหญ่ 7 ครั้ง", byPart(all.filter(v => v.cat === "rally" && v.short)), { note: "มีภาพเหตุการณ์จริงที่แสดงความรุนแรง" });
     row("นายกรัฐมนตรีไทยทุกคน", byPart(all.filter(v => v.cat === "pm" && v.short)));
     row("ซีรีส์ 6 ตุลา 2519", byPart(all.filter(v => v.cat === "oct6" && v.short)), { note: "มีภาพเหตุการณ์จริงที่แสดงความรุนแรง", more: pl("PLSsvtX7GmfA8") });

@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 947,
+  "views": 948,
   "sec": 1319
  },
  {
@@ -1021,8 +1021,28 @@ window.NSCT_VIDEOS = [
   "sec": 90
  },
  {
+  "id": "9OOcXWdDjGw",
+  "cat": "law112",
+  "title": "มาตรา 112 ข้อถกเถียงที่ยังไม่สิ้นสุด",
+  "full": true,
+  "short": false,
+  "published": "2026-11-15T03:00:06Z",
+  "views": 11,
+  "sec": 1613
+ },
+ {
+  "id": "rnX5UfNAP3Q",
+  "cat": "law112",
+  "title": "โทษขั้นต่ำ 3 ปี มาจากไหน?",
+  "full": false,
+  "short": true,
+  "published": "2026-11-15T11:00:19Z",
+  "views": 594,
+  "sec": 134
+ },
+ {
   "id": "MhoQvAsG_xk",
-  "cat": "oct6",
+  "cat": "law112",
   "title": "15 วันหลัง 6 ตุลา โทษเพิ่มเป็น 15 ปี",
   "full": false,
   "short": true,
@@ -1032,7 +1052,7 @@ window.NSCT_VIDEOS = [
  },
  {
   "id": "aHeYsJMub_g",
-  "cat": "coup",
+  "cat": "law112",
   "title": "คดี 112 พุ่งหลังรัฐประหาร",
   "full": false,
   "short": true,
@@ -1041,13 +1061,43 @@ window.NSCT_VIDEOS = [
   "sec": 151
  },
  {
+  "id": "-bnzOqGV1LI",
+  "cat": "law112",
+  "title": "294 คน ใน 324 คดี ตั้งแต่ปี 2563",
+  "full": false,
+  "short": true,
+  "published": "2026-11-17T07:00:24Z",
+  "views": 214,
+  "sec": 112
+ },
+ {
+  "id": "4sA3esVXMO0",
+  "cat": "law112",
+  "title": "ก้าวไกลกับมาตรา 112",
+  "full": false,
+  "short": true,
+  "published": "2026-11-17T10:00:40Z",
+  "views": 562,
+  "sec": 134
+ },
+ {
   "id": "0DdbEs3TqYU",
-  "cat": "oct6",
+  "cat": "law112",
   "title": "ร่างลบมรดก 6 ตุลา ของภาคประชาชน",
   "full": false,
   "short": true,
   "published": "2026-11-18T07:00:32Z",
-  "views": 162,
+  "views": 163,
   "sec": 77
+ },
+ {
+  "id": "ObSB7wdH_Gw",
+  "cat": "law112",
+  "title": "11 ประเทศพูดถึง 112 ที่เวที UN",
+  "full": false,
+  "short": true,
+  "published": "2026-11-18T10:00:32Z",
+  "views": 625,
+  "sec": 152
  }
 ];

@@ -26,6 +26,7 @@ def category(title):
         return "poll"  # hashtag-titled Shorts are opinion polls
     for key, cat in (("14 ตุลา 2516 Remade", "oct14r"), ("เจาะลึกพรรคประชาชน", "ppdeep"), ("เจาะลึกพรรคเพื่อไทย", "ptdeep"),
                      ("นายกรัฐมนตรีไทยทุกคน", "pm"), ("การชุมนุมใหญ่", "rally"),
+                     ("ม็อบเจน Z", "genz"), ("มาตรา 112", "law112"), ("ถูกยุบ", "dissolved"),
                      ("อภิปรายไม่ไว้วางใจ", "noconf"), ("14 ตุลา", "oct14"), ("6 ตุลา", "oct6"), ("การเดินทาง", "journey"),
                      ("NSCT Music", "music"), ("แนะนำช่อง", "intro"), ("แนะนำ Website", "intro"),
                      ("รัฐธรรมนูญ", "constitution"), ("รัฐประหาร", "coup"), ("กบฏ", "rebel"), ("พรรคการเมือง", "parties")):
@@ -35,7 +36,8 @@ def category(title):
 
 
 # documentary series: long uploads are the full films
-SERIES = {"constitution", "coup", "rebel", "parties", "oct14r", "ppdeep", "ptdeep", "noconf", "pm", "rally"}
+SERIES = {"constitution", "coup", "rebel", "parties", "oct14r", "ppdeep", "ptdeep", "noconf", "pm", "rally",
+          "genz", "law112", "dissolved"}
 
 # Short horizontal videos that are not Shorts (the API has no orientation field)
 HORIZONTAL = {"Ac-6oH6XU9M"}  # แนะนำช่อง, landscape version
