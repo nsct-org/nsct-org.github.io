@@ -7,7 +7,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T16:42:10Z",
-  "views": 49,
+  "views": 52,
   "sec": 206
  },
  {
@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 107,
+  "views": 111,
   "sec": 64
  },
  {
@@ -177,7 +177,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T12:15:32Z",
-  "views": 1401,
+  "views": 1403,
   "sec": 62
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 383,
+  "views": 384,
   "sec": 776
  },
  {
@@ -327,7 +327,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-21T10:00:06Z",
-  "views": 71,
+  "views": 77,
   "sec": 325
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 948,
+  "views": 950,
   "sec": 1319
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 250,
+  "views": 251,
   "sec": 1001
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 168,
+  "views": 169,
   "sec": 816
  },
  {
@@ -887,7 +887,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T10:00:39Z",
-  "views": 148,
+  "views": 149,
   "sec": 77
  },
  {
@@ -897,7 +897,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T07:00:15Z",
-  "views": 231,
+  "views": 233,
   "sec": 99
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 1051,
+  "views": 1052,
   "sec": 144
  },
  {
@@ -987,7 +987,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-11T10:00:11Z",
-  "views": 123,
+  "views": 124,
   "sec": 70
  },
  {
@@ -1007,7 +1007,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T10:00:00Z",
-  "views": 251,
+  "views": 253,
   "sec": 61
  },
  {
@@ -1017,7 +1017,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-13T07:00:35Z",
-  "views": 105,
+  "views": 107,
   "sec": 90
  },
  {
@@ -1027,7 +1027,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-15T03:00:06Z",
-  "views": 13,
+  "views": 16,
   "sec": 1613
  },
  {
@@ -1037,7 +1037,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-15T11:00:19Z",
-  "views": 595,
+  "views": 597,
   "sec": 134
  },
  {
@@ -1057,7 +1057,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-16T10:00:06Z",
-  "views": 961,
+  "views": 962,
   "sec": 151
  },
  {
@@ -1087,7 +1087,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T07:00:32Z",
-  "views": 172,
+  "views": 173,
   "sec": 77
  },
  {
@@ -1097,7 +1097,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T10:00:32Z",
-  "views": 703,
+  "views": 704,
   "sec": 152
  },
  {
@@ -1107,7 +1107,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-20T04:30:08Z",
-  "views": 5,
+  "views": 6,
   "sec": 528
  },
  {
@@ -1117,7 +1117,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-20T05:00:11Z",
-  "views": 92,
+  "views": 126,
   "sec": 89
  },
  {
@@ -1127,7 +1127,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-20T08:00:10Z",
-  "views": 155,
+  "views": 191,
   "sec": 99
  },
  {
@@ -1137,7 +1137,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-20T11:00:21Z",
-  "views": 148,
+  "views": 173,
   "sec": 60
+ },
+ {
+  "id": "y_qDGFai_gw",
+  "cat": "dissolved",
+  "title": "พรรคการเมืองที่ถูกยุบทั้งหมดในประเทศไทย",
+  "full": true,
+  "short": false,
+  "published": "2026-11-21T10:00:33Z",
+  "views": 0,
+  "sec": 1092
  }
 ];
