@@ -177,7 +177,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T12:15:32Z",
-  "views": 1405,
+  "views": 1406,
   "sec": 62
  },
  {
@@ -207,7 +207,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-18T15:26:17Z",
-  "views": 4,
+  "views": 5,
   "sec": 201
  },
  {
@@ -237,7 +237,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-19T11:00:30Z",
-  "views": 902,
+  "views": 903,
   "sec": 124
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 412,
+  "views": 449,
   "sec": 527
  },
  {
@@ -287,7 +287,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T09:15:36Z",
-  "views": 1072,
+  "views": 1076,
   "sec": 80
  },
  {
@@ -297,7 +297,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T11:30:32Z",
-  "views": 898,
+  "views": 899,
   "sec": 117
  },
  {
@@ -307,7 +307,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-20T13:15:39Z",
-  "views": 1207,
+  "views": 1208,
   "sec": 93
  },
  {
@@ -517,7 +517,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-28T07:00:24Z",
-  "views": 950,
+  "views": 951,
   "sec": 1319
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 316,
+  "views": 329,
   "sec": 1001
  },
  {
@@ -927,7 +927,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T10:00:37Z",
-  "views": 1029,
+  "views": 1030,
   "sec": 92
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 1053,
+  "views": 1055,
   "sec": 144
  },
  {
@@ -967,7 +967,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T10:00:33Z",
-  "views": 56,
+  "views": 58,
   "sec": 65
  },
  {
@@ -977,7 +977,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-11T07:00:09Z",
-  "views": 85,
+  "views": 89,
   "sec": 73
  },
  {
@@ -1017,7 +1017,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-13T07:00:35Z",
-  "views": 109,
+  "views": 110,
   "sec": 90
  },
  {
@@ -1027,7 +1027,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-15T03:00:06Z",
-  "views": 24,
+  "views": 26,
   "sec": 1613
  },
  {
@@ -1097,7 +1097,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T10:00:32Z",
-  "views": 716,
+  "views": 719,
   "sec": 152
  },
  {
@@ -1107,7 +1107,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-20T04:30:08Z",
-  "views": 8,
+  "views": 9,
   "sec": 528
  },
  {
@@ -1127,7 +1127,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-20T08:00:10Z",
-  "views": 202,
+  "views": 203,
   "sec": 99
  },
  {
@@ -1137,7 +1137,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-20T11:00:21Z",
-  "views": 175,
+  "views": 177,
   "sec": 60
  },
  {
@@ -1147,7 +1147,27 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-21T10:00:33Z",
-  "views": 24,
+  "views": 27,
   "sec": 1092
+ },
+ {
+  "id": "g4tMmNqiYJ0",
+  "cat": "dissolved",
+  "title": "รัฐประหาร 4 ครั้ง ยุบ 83 พรรค",
+  "full": false,
+  "short": true,
+  "published": "2026-11-24T07:00:00Z",
+  "views": 119,
+  "sec": 148
+ },
+ {
+  "id": "qvy4rcFLlx4",
+  "cat": "dissolved",
+  "title": "ศาลสั่งยุบเพราะทำไม่ครบตามกฎหมาย",
+  "full": false,
+  "short": true,
+  "published": "2026-11-24T10:00:15Z",
+  "views": 121,
+  "sec": 110
  }
 ];
