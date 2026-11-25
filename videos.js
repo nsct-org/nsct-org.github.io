@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 112,
+  "views": 114,
   "sec": 64
  },
  {
@@ -177,7 +177,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-17T12:15:32Z",
-  "views": 1406,
+  "views": 1407,
   "sec": 62
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 347,
+  "views": 360,
   "sec": 1001
  },
  {
@@ -817,7 +817,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-01T09:30:22Z",
-  "views": 155,
+  "views": 156,
   "sec": 134
  },
  {
@@ -887,7 +887,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T10:00:39Z",
-  "views": 149,
+  "views": 150,
   "sec": 77
  },
  {
@@ -907,7 +907,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T10:00:33Z",
-  "views": 987,
+  "views": 989,
   "sec": 83
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 1055,
+  "views": 1056,
   "sec": 144
  },
  {
@@ -1077,7 +1077,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-17T10:00:40Z",
-  "views": 567,
+  "views": 569,
   "sec": 134
  },
  {
@@ -1117,7 +1117,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-20T05:00:11Z",
-  "views": 128,
+  "views": 129,
   "sec": 89
  },
  {
@@ -1157,7 +1157,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-24T07:00:00Z",
-  "views": 183,
+  "views": 476,
   "sec": 148
  },
  {
@@ -1167,7 +1167,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-24T10:00:15Z",
-  "views": 228,
+  "views": 313,
   "sec": 110
  },
  {
@@ -1177,7 +1177,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-25T07:00:08Z",
-  "views": 108,
+  "views": 144,
   "sec": 85
+ },
+ {
+  "id": "ETG6ppIVbUE",
+  "cat": "dissolved",
+  "title": "พรรคที่เลิกเอง และยุบรวม",
+  "full": false,
+  "short": true,
+  "published": "2026-11-25T10:00:00Z",
+  "views": 110,
+  "sec": 81
  }
 ];
