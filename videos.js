@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 384,
+  "views": 386,
   "sec": 776
  },
  {
@@ -267,7 +267,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-20T07:00:20Z",
-  "views": 57,
+  "views": 59,
   "sec": 482
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 338,
+  "views": 347,
   "sec": 1001
  },
  {
@@ -787,7 +787,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-31T13:00:17Z",
-  "views": 116,
+  "views": 117,
   "sec": 96
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 189,
+  "views": 191,
   "sec": 816
  },
  {
@@ -967,7 +967,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-10T10:00:33Z",
-  "views": 58,
+  "views": 59,
   "sec": 65
  },
  {
@@ -987,7 +987,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-11T10:00:11Z",
-  "views": 125,
+  "views": 126,
   "sec": 70
  },
  {
@@ -1027,7 +1027,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-15T03:00:06Z",
-  "views": 26,
+  "views": 28,
   "sec": 1613
  },
  {
@@ -1077,7 +1077,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-17T10:00:40Z",
-  "views": 565,
+  "views": 567,
   "sec": 134
  },
  {
@@ -1087,7 +1087,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T07:00:32Z",
-  "views": 173,
+  "views": 174,
   "sec": 77
  },
  {
@@ -1127,7 +1127,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-20T08:00:10Z",
-  "views": 203,
+  "views": 204,
   "sec": 99
  },
  {
@@ -1147,7 +1147,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-21T10:00:33Z",
-  "views": 27,
+  "views": 28,
   "sec": 1092
  },
  {
@@ -1157,7 +1157,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-24T07:00:00Z",
-  "views": 127,
+  "views": 183,
   "sec": 148
  },
  {
@@ -1167,7 +1167,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-24T10:00:15Z",
-  "views": 131,
+  "views": 228,
   "sec": 110
+ },
+ {
+  "id": "ar2pUWRL29A",
+  "cat": "dissolved",
+  "title": "90 พรรคที่ กกต. ประกาศสิ้นสภาพ",
+  "full": false,
+  "short": true,
+  "published": "2026-11-25T07:00:08Z",
+  "views": 108,
+  "sec": 85
  }
 ];
