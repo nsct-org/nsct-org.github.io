@@ -7,7 +7,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T16:42:10Z",
-  "views": 52,
+  "views": 53,
   "sec": 206
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 386,
+  "views": 387,
   "sec": 776
  },
  {
@@ -257,7 +257,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T13:45:17Z",
-  "views": 449,
+  "views": 452,
   "sec": 527
  },
  {
@@ -387,7 +387,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-23T07:00:14Z",
-  "views": 715,
+  "views": 717,
   "sec": 112
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 373,
+  "views": 386,
   "sec": 1001
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 195,
+  "views": 196,
   "sec": 816
  },
  {
@@ -867,7 +867,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-05T10:00:27Z",
-  "views": 297,
+  "views": 298,
   "sec": 136
  },
  {
@@ -877,7 +877,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 844,
+  "views": 845,
   "sec": 93
  },
  {
@@ -887,7 +887,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T10:00:39Z",
-  "views": 151,
+  "views": 152,
   "sec": 77
  },
  {
@@ -897,7 +897,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T07:00:15Z",
-  "views": 238,
+  "views": 239,
   "sec": 99
  },
  {
@@ -907,7 +907,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T10:00:33Z",
-  "views": 989,
+  "views": 990,
   "sec": 83
  },
  {
@@ -917,7 +917,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-08T07:00:04Z",
-  "views": 1297,
+  "views": 1301,
   "sec": 91
  },
  {
@@ -997,7 +997,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T07:00:16Z",
-  "views": 221,
+  "views": 223,
   "sec": 66
  },
  {
@@ -1007,7 +1007,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T10:00:00Z",
-  "views": 259,
+  "views": 260,
   "sec": 61
  },
  {
@@ -1027,7 +1027,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-15T03:00:06Z",
-  "views": 28,
+  "views": 29,
   "sec": 1613
  },
  {
@@ -1097,7 +1097,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T10:00:32Z",
-  "views": 719,
+  "views": 720,
   "sec": 152
  },
  {
@@ -1157,7 +1157,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-24T07:00:00Z",
-  "views": 594,
+  "views": 626,
   "sec": 148
  },
  {
@@ -1167,7 +1167,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-24T10:00:15Z",
-  "views": 366,
+  "views": 395,
   "sec": 110
  },
  {
@@ -1177,7 +1177,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-25T07:00:08Z",
-  "views": 151,
+  "views": 155,
   "sec": 85
  },
  {
@@ -1187,7 +1187,27 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-25T10:00:00Z",
-  "views": 122,
+  "views": 135,
   "sec": 81
+ },
+ {
+  "id": "EKDPIZPIUi0",
+  "cat": "dissolved",
+  "title": "ยุบไทยรักไทย ถึงพลังประชาชน",
+  "full": false,
+  "short": true,
+  "published": "2026-11-26T07:00:16Z",
+  "views": 96,
+  "sec": 169
+ },
+ {
+  "id": "K6tWmGB8xPQ",
+  "cat": "dissolved",
+  "title": "ยุบไทยรักษาชาติ และอนาคตใหม่",
+  "full": false,
+  "short": true,
+  "published": "2026-11-26T10:00:10Z",
+  "views": 94,
+  "sec": 84
  }
 ];
