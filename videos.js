@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 389,
+  "views": 395,
   "sec": 776
  },
  {
@@ -267,7 +267,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-20T07:00:20Z",
-  "views": 59,
+  "views": 61,
   "sec": 482
  },
  {
@@ -677,7 +677,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T04:00:35Z",
-  "views": 649,
+  "views": 650,
   "sec": 96
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 398,
+  "views": 405,
   "sec": 1001
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 196,
+  "views": 197,
   "sec": 816
  },
  {
@@ -877,7 +877,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 845,
+  "views": 846,
   "sec": 93
  },
  {
@@ -907,7 +907,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T10:00:33Z",
-  "views": 990,
+  "views": 991,
   "sec": 83
  },
  {
@@ -937,7 +937,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-09T07:00:11Z",
-  "views": 1058,
+  "views": 1059,
   "sec": 144
  },
  {
@@ -1087,7 +1087,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T07:00:32Z",
-  "views": 174,
+  "views": 175,
   "sec": 77
  },
  {
@@ -1177,7 +1177,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-25T07:00:08Z",
-  "views": 158,
+  "views": 162,
   "sec": 85
  },
  {
@@ -1187,7 +1187,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-25T10:00:00Z",
-  "views": 137,
+  "views": 138,
   "sec": 81
  },
  {
@@ -1197,7 +1197,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-26T07:00:16Z",
-  "views": 226,
+  "views": 266,
   "sec": 169
  },
  {
@@ -1207,7 +1207,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-26T10:00:10Z",
-  "views": 140,
+  "views": 147,
   "sec": 84
+ },
+ {
+  "id": "f8VsD_FVJKM",
+  "cat": "dissolved",
+  "title": "ก้าวไกลถูกยุบ",
+  "full": false,
+  "short": true,
+  "published": "2026-11-27T07:00:24Z",
+  "views": 120,
+  "sec": 104
  }
 ];
