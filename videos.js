@@ -27,7 +27,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": false,
   "published": "2026-10-14T18:00:29Z",
-  "views": 114,
+  "views": 115,
   "sec": 64
  },
  {
@@ -227,7 +227,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-19T10:00:37Z",
-  "views": 395,
+  "views": 396,
   "sec": 776
  },
  {
@@ -637,7 +637,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-10-30T01:30:38Z",
-  "views": 823,
+  "views": 824,
   "sec": 124
  },
  {
@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 405,
+  "views": 417,
   "sec": 1001
  },
  {
@@ -887,7 +887,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T10:00:39Z",
-  "views": 152,
+  "views": 155,
   "sec": 77
  },
  {
@@ -907,7 +907,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-07T10:00:33Z",
-  "views": 991,
+  "views": 993,
   "sec": 83
  },
  {
@@ -997,7 +997,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T07:00:16Z",
-  "views": 223,
+  "views": 226,
   "sec": 66
  },
  {
@@ -1077,7 +1077,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-17T10:00:40Z",
-  "views": 570,
+  "views": 571,
   "sec": 134
  },
  {
@@ -1097,7 +1097,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T10:00:32Z",
-  "views": 720,
+  "views": 721,
   "sec": 152
  },
  {
@@ -1157,7 +1157,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-24T07:00:00Z",
-  "views": 624,
+  "views": 625,
   "sec": 148
  },
  {
@@ -1167,7 +1167,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-24T10:00:15Z",
-  "views": 396,
+  "views": 397,
   "sec": 110
  },
  {
@@ -1187,7 +1187,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-25T10:00:00Z",
-  "views": 138,
+  "views": 139,
   "sec": 81
  },
  {
@@ -1197,7 +1197,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-26T07:00:16Z",
-  "views": 266,
+  "views": 317,
   "sec": 169
  },
  {
@@ -1207,7 +1207,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-26T10:00:10Z",
-  "views": 147,
+  "views": 155,
   "sec": 84
  },
  {
@@ -1217,7 +1217,17 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-27T07:00:24Z",
-  "views": 120,
+  "views": 221,
   "sec": 104
+ },
+ {
+  "id": "1YloakPz5-4",
+  "cat": "dissolved",
+  "title": "พรรคที่ไม่เคยถูกยุบ",
+  "full": false,
+  "short": true,
+  "published": "2026-11-27T10:00:04Z",
+  "views": 52,
+  "sec": 84
  }
 ];
