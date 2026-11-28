@@ -488,8 +488,8 @@ body.fade-out { opacity: 0; transition: opacity .18s ease !important; }
    black issues panel with white cards, a white strip of five logos in one row, three photo cards on orange */
 .nw { --o: #ff6a00; --o2: #ff8a33; background: var(--o); color: #fff; padding-top: var(--header-h, 76px); }
 .nw a { color: inherit; text-decoration: none; }
-.nw-top { display: grid; grid-template-columns: 1.45fr 1fr; align-items: stretch; }
-.nw-lead { padding: clamp(20px, 3vw, 36px) clamp(18px, 3vw, 40px) 28px; display: flex; flex-direction: column; min-width: 0; }
+.nw-top { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); align-items: stretch; max-width: 1480px; margin-inline: auto; gap: clamp(0px, 2vw, 32px); padding-inline: clamp(0px, 2vw, 32px); }
+.nw-lead { padding: clamp(20px, 3vw, 40px) clamp(18px, 3vw, 24px) clamp(24px, 3vw, 40px); display: flex; flex-direction: column; justify-content: center; min-width: 0; }
 .nw-brand { display: flex; align-items: center; gap: clamp(14px, 3vw, 44px); }
 .nw-badge { width: clamp(64px, 8vw, 96px); aspect-ratio: 1; border-radius: 50%; background: #fff; display: grid; place-items: center; overflow: hidden; flex: none; }
 .nw-badge img { width: 90%; height: 90%; object-fit: contain; }
@@ -508,7 +508,7 @@ body.fade-out { opacity: 0; transition: opacity .18s ease !important; }
 .nw-web svg { width: 34px; height: 34px; }
 .nw-side { display: flex; flex-direction: column; min-width: 0; }
 .nw-points { background: #000; padding: 16px 0 16px 10px; }
-.nw-points h2 { font: 800 clamp(28px, 3.2vw, 46px)/1.1 var(--font-display); color: var(--o); text-align: center; margin: 4px 0 14px; }
+.nw-points h2 { font: 800 clamp(28px, 3.2vw, 46px)/1.1 var(--font-display); color: #fff; text-align: center; margin: 4px 0 14px; }
 .pt { display: grid; grid-template-columns: 38% 1fr; gap: 14px; align-items: center; background: #fff; color: #1a1a1a !important; border-radius: 10px 0 0 10px; padding: 10px; margin-top: 12px; border: 3px solid #e6e6e6; border-right: 0; transition: transform .2s var(--ease); }
 .pt:hover { transform: translateX(-6px); }
 .pt img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 6px; }
@@ -548,3 +548,22 @@ body.fade-out { opacity: 0; transition: opacity .18s ease !important; }
 }
 body:has(.nw) .nav a[aria-current="page"] { color: #fff; text-decoration: underline 3px; text-underline-offset: 8px; }
 body:has(.nw) .site-footer { margin-top: 0; }
+
+/* NSCT News logo + lead summary/facts (added after the first review: less empty space on wide screens) */
+.nw-brand img { width: clamp(200px, 22vw, 330px); height: auto; display: block; }
+.nw-sum { margin: 10px 0 0; font: 500 clamp(16px, 1.5vw, 20px)/1.6 var(--font-body); max-width: 40ch; }
+.nw-date { font-weight: 700; }
+.nw-facts { list-style: none; margin: clamp(18px, 2.4vw, 30px) 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(8px, 1.2vw, 16px); max-width: 640px; }
+.nw-facts li { background: rgba(0,0,0,.88); border-radius: 14px; padding: 12px 14px; display: flex; align-items: center; gap: 12px; }
+.nw-facts b { font: 800 clamp(26px, 2.8vw, 40px)/1 var(--font-display); color: var(--o); white-space: nowrap; }
+.nw-facts span { font: 600 clamp(12px, 1vw, 14px)/1.35 var(--font-body); color: #fff; }
+.nw-points { border-radius: 0 0 18px 18px; padding: 16px 12px; }
+.pt { border-radius: 10px; border-right: 3px solid #e6e6e6; grid-template-columns: minmax(120px, 42%) 1fr; }
+.pt:hover { transform: translateY(-3px); }
+.nw-side { max-width: 640px; width: 100%; justify-self: end; }
+@media (max-width: 860px) {
+  .nw-side { max-width: none; }
+  .nw-points { border-radius: 0; }
+  .nw-facts { grid-template-columns: 1fr; }
+}
+.music-logo { width: clamp(200px, 22vw, 300px); height: auto; display: block; margin-bottom: 18px; }
