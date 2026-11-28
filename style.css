@@ -567,3 +567,12 @@ body:has(.nw) .site-footer { margin-top: 0; }
   .nw-facts { grid-template-columns: 1fr; }
 }
 .music-logo { width: clamp(200px, 22vw, 300px); height: auto; display: block; margin-bottom: 18px; }
+
+/* white panels (owner's request 28 Nov): issues box and fact chips on white instead of black */
+.nw-points { background: #fff; box-shadow: 0 10px 30px -12px rgba(0,0,0,.35); }
+.nw-points h2 { color: #e1540c; }
+.pt { border: 2px solid #eee; background: #fff; }
+.pt:hover { border-color: var(--o); }
+.nw-facts li { background: #fff; }
+.nw-facts b { color: #e1540c; }
+.nw-facts span { color: #2a1d16; }

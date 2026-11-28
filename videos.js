@@ -1167,7 +1167,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-24T10:00:15Z",
-  "views": 398,
+  "views": 400,
   "sec": 110
  },
  {
