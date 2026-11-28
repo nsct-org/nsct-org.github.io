@@ -14,7 +14,7 @@
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anuphan:wght@400;500;600&family=Chakra+Petch:wght@500;600;700&family=Kanit:wght@600;700;800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anuphan:wght@400;500;600&family=Chakra+Petch:wght@500;600;700&family=Kanit:wght@200;600;700;800&display=swap">
 <link rel="stylesheet" href="style.css">
 <script src="site.js" defer></script>
 </head>
@@ -42,74 +42,70 @@
 </header>
 
 <main id="main">
-<!-- ข่าวประจำวัน: แก้ข้อความในแต่ละกล่องได้ตรงๆ แล้วรัน py build_site.py --deploy
-     1) news-lead = ประเด็นหลักของวัน  2) news-points = ปมที่จับตา (กี่ข้อก็ได้)
-     3) news-parties = พรรคที่เกี่ยวข้อง (โลโก้อยู่ใน assets/parties)  4) news-cards = ข่าวสั้น พร้อมลิงก์แหล่งข่าว -->
-<section class="news-top">
-  <div class="wrap news-grid">
-    <div class="news-lead">
-      <span class="news-kicker"><i aria-hidden="true"></i>ข่าวประจำวัน · <time datetime="2026-11-28">28 พ.ย. 2569</time></span>
-      <h1><span class="thin">การอภิปราย</span><span class="thin">ไม่ไว้วางใจ</span><span class="bold">รัฐบาลอนุทิน</span></h1>
-      <p class="news-sum">ฝ่ายค้านยื่นอภิปรายไม่ไว้วางใจนายกรัฐมนตรีและรัฐมนตรีอีก 17 คน กำหนดอภิปราย 7–11 ธ.ค. 2569 นายกฯ ระบุว่าจะใช้ผลงานและข้อเท็จจริงตอบ</p>
-      <div class="btns">
-        <a class="btn ink" href="https://www.dailynews.co.th/news/6383244/" target="_blank" rel="noopener">อ่านเนื้อหาเพิ่มเติม <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
-        <a class="btn ghost-ink" href="https://www.youtube.com/watch?v=f9RF8IcQ2_s" target="_blank" rel="noopener">อภิปรายไม่ไว้วางใจคืออะไร</a>
+<!-- ข่าวประจำวัน (ตามดีไซน์ Home.pdf): แก้ข้อความ ลิงก์ และภาพในแต่ละกล่องได้ตรงๆ แล้วรัน py build_site.py --deploy
+     nw-lead = หัวข่าวหลัก · nw-points = ปมที่จับตา · nw-logos = โลโก้พรรค 5 พรรค · nw-cards = ข่าวสั้น 3 ข่าว
+     ภาพข่าวเป็นภาพปกของบทความต้นทาง (og:image) ใช้เป็นตัวอย่างลิงก์ พร้อมชื่อสำนักข่าว — เช็กทุกภาพว่าไม่มีพระบรมฉายาลักษณ์ -->
+<div class="nw">
+<section class="nw-top">
+  <div class="nw-lead">
+    <div class="nw-brand"><span class="nw-badge"><img src="assets/emblem-badge.jpg" alt="" width="96" height="96"></span><b>ข่าวประจำวัน</b></div>
+    <h1><span class="t1">การอภิปราย</span><span class="t1">ไม่ไว้วางใจ</span><span class="t2">รัฐบาลอนุทิน</span></h1>
+    <p class="nw-date">28 พ.ย. 2569 · อภิปราย 7–11 ธ.ค. นายกฯ และรัฐมนตรี 17 คน</p>
+    <div class="nw-contact">
+      <span>ช่องทางติดต่อ</span>
+      <div>
+        <a class="nw-yt" href="https://www.youtube.com/channel/UCBhQ84tXMB9-YaUmZKiK6jA" target="_blank" rel="noopener" aria-label="YouTube ศนท."><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 7.5v9l7.5-4.5z"/></svg></a>
+        <a class="nw-web" href="./" aria-label="เว็บไซต์ ศนท."><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg></a>
       </div>
-      <p class="news-src">ข้อมูลจาก เดลินิวส์ · ไทยรัฐ · กรุงเทพธุรกิจ</p>
     </div>
+  </div>
 
-    <aside class="news-points" aria-labelledby="pts-h">
-      <h2 id="pts-h"><b>3</b> ปมหลักที่จับตา</h2>
-      <ol>
-        <li><a href="https://www.dailynews.co.th/articles/6395430/" target="_blank" rel="noopener"><h3>ฮั้ว สว.</h3><p>ประเด็นความเชื่อมโยงเครือข่ายการเมืองกับการเลือก สว. ที่คาดว่าจะถูกหยิบมาอภิปราย</p></a></li>
-        <li><a href="https://www.thairath.co.th/news/politic/2973513" target="_blank" rel="noopener"><h3>โกงสอบท้องถิ่น</h3><p>ฝ่ายค้านตั้งคำถามถึงความคืบหน้าของคดี และความรับผิดชอบของกระทรวงมหาดไทย</p></a></li>
-        <li><a href="https://www.pptvhd36.com/news/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/281846" target="_blank" rel="noopener"><h3>TH-AI Passport</h3><p>ตรวจสอบงบ ทีโออาร์ และความคุ้มค่า ฝั่งนายกฯ ยืนยันว่ายอดลงทะเบียนคือคำตอบ</p></a></li>
-      </ol>
-    </aside>
+  <div class="nw-side">
+    <div class="nw-points">
+      <h2>3 ปมหลักที่จับตา</h2>
+      <a class="pt" href="https://www.naewna.com/n/politics/200572/" target="_blank" rel="noopener">
+        <img src="https://storage-wp.naewna.com/2026/11/S__45629501-1.jpg" alt="" loading="lazy" referrerpolicy="no-referrer">
+        <div><h3>ฮั้ว สว.</h3><p>ตรวจสอบความเชื่อมโยงเครือข่ายการเมือง</p></div>
+      </a>
+      <a class="pt" href="https://www.thairath.co.th/news/politic/2973513" target="_blank" rel="noopener">
+        <img src="https://static.thairath.co.th/media/dFQROr7oWzulq5Fa7HTLoYZV96Iqovex9loNQvPU3hseR9g12sn9WqtKJgqHbT1hUar.jpg" alt="" loading="lazy" referrerpolicy="no-referrer">
+        <div><h3>โกงสอบท้องถิ่น</h3><p>ความรับผิดชอบของ มท.1 ต่อความคืบหน้าคดี</p></div>
+      </a>
+      <a class="pt" href="https://www.pptvhd36.com/news/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/281846" target="_blank" rel="noopener">
+        <img src="https://img.pptvhd36.com/thumbor/2026/08/19/news-f628cf0.jpg" alt="" loading="lazy" referrerpolicy="no-referrer">
+        <div><h3>TH-AI Passport</h3><p>ตรวจสอบงบ ทีโออาร์ ความคุ้มค่า</p></div>
+      </a>
+    </div>
+    <div class="nw-more">
+      <a href="https://www.dailynews.co.th/news/6383244/" target="_blank" rel="noopener"><span>เนื้อหาเพิ่มเติม</span></a>
+      <small>ข้อมูลจาก เดลินิวส์ · แนวหน้า · ไทยรัฐ · PPTV</small>
+    </div>
   </div>
 </section>
 
-<section class="news-parties" aria-label="พรรคฝ่ายค้าน">
-  <div class="wrap">
-    <span class="eyebrow">พรรคฝ่ายค้าน</span>
-    <ul>
-      <li><a href="parties#h-opp"><img src="assets/parties/peoples.png" alt="พรรคประชาชน" loading="lazy"></a></li>
-      <li><a href="parties#h-opp"><img src="assets/parties/democrat.png" alt="พรรคประชาธิปัตย์" loading="lazy"></a></li>
-      <li><a href="parties#h-opp"><img src="assets/parties/thairuampalang.png" alt="พรรคไทรวมพลัง" loading="lazy"></a></li>
-      <li><a href="parties#h-opp"><img src="assets/parties/seriruamthai.png" alt="พรรคเสรีรวมไทย" loading="lazy"></a></li>
-      <li><a href="parties#h-opp"><img src="assets/parties/thaipakdee.png" alt="พรรคไทยภักดี" loading="lazy"></a></li>
-    </ul>
-  </div>
+<section class="nw-logos" aria-label="พรรคฝ่ายค้าน">
+  <a href="parties#h-opp"><img src="assets/parties/peoples.png" alt="พรรคประชาชน" loading="lazy"></a>
+  <a href="parties#h-opp"><img src="assets/parties/democrat.png" alt="พรรคประชาธิปัตย์" loading="lazy"></a>
+  <a href="parties#h-opp"><img src="assets/parties/thairuampalang.png" alt="พรรคไทรวมพลัง" loading="lazy"></a>
+  <a href="parties#h-opp"><img src="assets/parties/seriruamthai.png" alt="พรรคเสรีรวมไทย" loading="lazy"></a>
+  <a href="parties#h-opp"><img src="assets/parties/thaipakdee.png" alt="พรรคไทยภักดี" loading="lazy"></a>
 </section>
 
-<section class="section news-more">
-  <div class="wrap">
-    <div class="section-head">
-      <div><span class="eyebrow">ข่าวอื่นวันนี้</span><h2 class="section-title">อัปเดตสั้น</h2></div>
-    </div>
-    <div class="news-cards">
-      <a class="ncard" href="https://www.thairath.co.th/news/politic/2974547" target="_blank" rel="noopener">
-        <span class="tag">สารพิษ</span>
-        <h3>สธ. เปิดศูนย์ส่วนหน้าที่เชียงราย</h3>
-        <p>เฝ้าระวังสารโลหะหนักปนเปื้อนแม่น้ำสายและแม่น้ำกก วางแผน 3 ระยะ คัดกรอง รักษา และติดตามผลกระทบต่อชาวบ้าน</p>
-        <span class="src">ไทยรัฐ · 25 พ.ย. 2569</span>
-      </a>
-      <a class="ncard" href="https://www.amarintv.com/news/social/563937" target="_blank" rel="noopener">
-        <span class="tag">เลือกตั้งประกันสังคม</span>
-        <h3>ผู้ได้คะแนนสูงสุด ถูกเพิกถอนสิทธิ์</h3>
-        <p>กลุ่มประกันสังคมก้าวหน้าออกคำชี้แจง หลังผู้สมัครที่ได้คะแนนสูงสุดถูกเพิกถอนสิทธิ์และพ้นจากบอร์ด สปส. ยืนยันไม่เคยปิดบังข้อมูล</p>
-        <span class="src">อมรินทร์ทีวี</span>
-      </a>
-      <a class="ncard" href="https://www.thaipbs.or.th/news/content/572822" target="_blank" rel="noopener">
-        <span class="tag">ป.ป.ช. ยกคำร้อง</span>
-        <h3>ตีตกคำร้องสินบน 40 ล้าน</h3>
-        <p>ป.ป.ช. ตีตกคำร้องกรณีสินบน 40 ล้านบาทของรัฐมนตรีดีอี ระบุไม่ปรากฏพฤติการณ์ตามที่ถูกกล่าวหา แต่โครงการ TH-AI Passport ยังถูกจับตา</p>
-        <span class="src">Thai PBS</span>
-      </a>
-    </div>
-    <p class="muted news-note">ข่าวสรุปจากสื่อที่ระบุในแต่ละการ์ด กดที่การ์ดเพื่ออ่านข่าวต้นฉบับ</p>
-  </div>
+<section class="nw-cards">
+  <a class="nc" href="https://www.thairath.co.th/news/politic/2974547" target="_blank" rel="noopener">
+    <span class="img"><img src="https://static.thairath.co.th/media/dFQROr7oWzulq5Fa7HTNILT3S1JIhLozpQW4b2wuQrjJLFYtHEWMb3oxITTEmweUrCN.jpg" alt="สธ. เปิดศูนย์ส่วนหน้าเชียงราย เฝ้าระวังสารโลหะหนักแม่น้ำสาย" loading="lazy" referrerpolicy="no-referrer"><em>ไทยรัฐ</em></span>
+    <b>สารพิษ</b>
+  </a>
+  <a class="nc mid" href="https://www.pptvhd36.com/news/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/287982" target="_blank" rel="noopener">
+    <span class="img"><img src="https://img.pptvhd36.com/thumbor/2026/11/28/news-a9729ca.jpg" alt="ผู้ได้คะแนนสูงสุดเลือกตั้งบอร์ดประกันสังคม ชี้แจงเหตุถูกเพิกถอนสิทธิ์" loading="lazy" referrerpolicy="no-referrer"><em>PPTV</em></span>
+    <b>เลือกตั้งประกันสังคม</b>
+  </a>
+  <a class="nc" href="https://www.thaipbs.or.th/news/content/572822" target="_blank" rel="noopener">
+    <span class="img"><img src="https://content-images.thaipbs.or.th/imgpx1/unsafe/rt:fill/el:1/s:1200:630/q:90/aHR0cHM6Ly9vbmVjbXMudGhhaXBicy5vci50aC9tZWRpYS9xdHloSlJqQ0p1QmRadWh3QlFGWFpMbUJBSktKRnVsWW9ORlphTWVwd1FHOUgyaEhoWThFN0F4LmpwZw==.jpg" alt="ป.ป.ช. ตีตกคำร้องสินบน 40 ล้าน" loading="lazy" referrerpolicy="no-referrer"><em>Thai PBS</em></span>
+    <b>ป.ป.ช. ยกคำร้อง</b>
+  </a>
 </section>
+</div>
 </main>
 
 <footer class="site-footer">
