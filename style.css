@@ -494,3 +494,34 @@ body.fade-out { opacity: 0; transition: opacity .18s ease !important; }
   .news-cards { grid-template-columns: 1fr; }
 }
 @media (prefers-reduced-motion: reduce) { .news-kicker i { animation: none; } }
+
+/* พรรคการเมือง (parties.html): three groups of party cards, each tinted with the party's own colour (--pc) */
+.phero h1 { font-size: clamp(44px, 7vw, 92px); }
+.pbar { display: flex; height: 38px; border-radius: 10px; overflow: hidden; margin-top: 26px; font: 700 14px/38px var(--font-label); color: #fff; max-width: 760px; }
+.pbar span { padding: 0 12px; white-space: nowrap; overflow: hidden; }
+.b-opp { background: #4a3c35; } .b-gov { background: #6b5a51; } .b-unc { background: #2a2320; text-align: center; padding: 0 !important; }
+.pgroup { padding: clamp(40px, 6vw, 72px) 0; border-top: 1px solid var(--line); }
+.pgroup.gov { background: var(--ink-2); }
+.pg-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.pg-head h2 { font-size: clamp(30px, 4vw, 46px); }
+.pg-count { font: 600 15px/1.4 var(--font-label); color: var(--muted); letter-spacing: .04em; }
+.pg-count b { color: var(--fg); font-size: 22px; }
+.pg-note { color: #d9cec5; margin: 6px 0 26px; }
+.pgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 16px; }
+.pcard { --pc: var(--orange); position: relative; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 8px;
+  padding: 22px 16px 16px; border-radius: 16px; background: var(--panel); border: 1px solid var(--line); border-top: 6px solid var(--pc);
+  color: var(--fg); text-decoration: none; overflow: hidden; transition: transform .25s var(--ease), box-shadow .25s; }
+.pcard::before { content: ""; position: absolute; inset: 0; background: radial-gradient(120% 70% at 50% 0%, color-mix(in srgb, var(--pc) 35%, transparent), transparent 70%); pointer-events: none; }
+.pcard:hover { transform: translateY(-4px); box-shadow: 0 12px 30px -12px var(--pc); }
+.plogo { position: relative; width: 120px; height: 120px; border-radius: 50%; background: #fff; display: grid; place-items: center; box-shadow: 0 0 0 4px var(--pc); }
+.plogo img { width: 92px; height: 92px; object-fit: contain; }
+.pname { position: relative; font: 700 18px/1.3 var(--font-display); margin-top: 6px; }
+.pseats { position: relative; display: inline-flex; align-items: baseline; gap: 6px; background: var(--pc); color: #fff; border-radius: 999px; padding: 6px 14px; font: 600 14px/1 var(--font-label); }
+.pseats b { font: 800 24px/1 var(--font-display); }
+.plink { position: relative; font: 600 12.5px/1 var(--font-label); color: var(--muted); letter-spacing: .04em; margin-top: 2px; }
+.pcard:hover .plink { color: var(--orange-hot); }
+.psrc { font-size: 13.5px; line-height: 1.7; }
+@media (max-width: 520px) {
+  .pgrid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .plogo { width: 96px; height: 96px; } .plogo img { width: 74px; height: 74px; }
+}
