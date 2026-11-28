@@ -521,7 +521,9 @@ body.fade-out { opacity: 0; transition: opacity .18s ease !important; }
 .nw-more a span { display: block; background: var(--o); border-radius: 999px; text-align: center; padding: 10px; font: 700 18px/1.2 var(--font-display); text-decoration: underline; text-underline-offset: 4px; }
 .nw-more a:hover span { background: #e65c00; }
 .nw-more small { align-self: flex-end; font-size: 13px; color: #ffe1cc; }
-.nw-logos { background: #fff; display: grid; grid-template-columns: repeat(5, 1fr); align-items: center; justify-items: center; gap: 12px; padding: clamp(18px, 3vw, 34px) clamp(16px, 6vw, 110px); }
+.nw-logos { background: #fff; padding: clamp(18px, 3vw, 30px) clamp(16px, 6vw, 110px) clamp(18px, 3vw, 34px); }
+.nw-logos h2 { font: 800 clamp(20px, 2.4vw, 32px)/1.3 var(--font-display); color: #e1540c; text-align: center; margin: 0 0 clamp(12px, 2vw, 22px); }
+.nw-logos .row { display: grid; grid-template-columns: repeat(5, 1fr); align-items: center; justify-items: center; gap: 12px; }
 .nw-logos img { width: clamp(54px, 9vw, 140px); height: clamp(54px, 9vw, 140px); object-fit: contain; transition: transform .2s var(--ease); }
 .nw-logos a:hover img { transform: scale(1.06); }
 .nw-cards { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 4px solid var(--o); background: #fff; }
