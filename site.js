@@ -46,7 +46,7 @@
     if (!a || e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
     if (a.target === "_blank" || a.hasAttribute("download")) return;
     const url = new URL(a.href, location.href);
-    if (url.origin !== location.origin || !/\.html$|\/$/.test(url.pathname)) return;
+    if (url.origin !== location.origin || !/\.html$|\/$|\/[a-z0-9_-]+$/.test(url.pathname)) return;
     if (url.pathname === location.pathname && url.hash) return; // in-page anchor
     e.preventDefault();
     let gone = false;

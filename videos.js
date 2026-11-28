@@ -757,7 +757,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-10-31T03:00:19Z",
-  "views": 420,
+  "views": 424,
   "sec": 1001
  },
  {
@@ -857,7 +857,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-05T07:00:33Z",
-  "views": 197,
+  "views": 198,
   "sec": 816
  },
  {
@@ -877,7 +877,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T07:00:30Z",
-  "views": 846,
+  "views": 847,
   "sec": 93
  },
  {
@@ -887,7 +887,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-06T10:00:39Z",
-  "views": 155,
+  "views": 156,
   "sec": 77
  },
  {
@@ -1007,7 +1007,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-12T10:00:00Z",
-  "views": 260,
+  "views": 261,
   "sec": 61
  },
  {
@@ -1017,7 +1017,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-13T07:00:35Z",
-  "views": 113,
+  "views": 114,
   "sec": 90
  },
  {
@@ -1027,7 +1027,7 @@ window.NSCT_VIDEOS = [
   "full": true,
   "short": false,
   "published": "2026-11-15T03:00:06Z",
-  "views": 30,
+  "views": 31,
   "sec": 1613
  },
  {
@@ -1097,7 +1097,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-18T10:00:32Z",
-  "views": 721,
+  "views": 722,
   "sec": 152
  },
  {
@@ -1197,7 +1197,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-26T07:00:16Z",
-  "views": 343,
+  "views": 357,
   "sec": 169
  },
  {
@@ -1207,7 +1207,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-26T10:00:10Z",
-  "views": 165,
+  "views": 168,
   "sec": 84
  },
  {
@@ -1217,7 +1217,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-27T07:00:24Z",
-  "views": 317,
+  "views": 354,
   "sec": 104
  },
  {
@@ -1227,7 +1227,7 @@ window.NSCT_VIDEOS = [
   "full": false,
   "short": true,
   "published": "2026-11-27T10:00:04Z",
-  "views": 66,
+  "views": 96,
   "sec": 84
  }
 ];
